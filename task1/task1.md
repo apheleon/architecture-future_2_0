@@ -16,3 +16,9 @@
 ## матрица Эйзенхауэра
 
 1. [матрица Эйзенхауэра](https://drive.google.com/file/d/1KNvHXnMAHW8wlohRqV-cC_sIaS6-yf2G/view?usp=sharing, "матрица Эйзенхауэра")
+
+## Новая схема и пояснения
+
+1. [обновлённая C4 диаграмма](https://drive.google.com/file/d/1alcuUDroObMEefnZLuGnLxsi5k19L-A-/view?usp=sharing, "обновлённая C4 диаграмма")
+2. EBS меняем на новую Apache Kafka, надёжная и масштабируемая шина данных
+3. DWH на SQL2008 оставим и добавим к нему новую витрину DataMesh(ETL + DataHub для каталога данных). Legacy будем держать на время миграции
